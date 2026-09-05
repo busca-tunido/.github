@@ -8,6 +8,14 @@ A collaborative web platform designed for out-of-town university students to sea
   <img src="assets/map-light.png" alt="BuscaTuNido - Modo Claro" width="48%" />
 </p>
 
+## Public Deployments / Enlaces Públicos
+
+| Servicio | URL Pública | Estado |
+| :--- | :--- | :--- |
+| **Web (Frontend)** | [https://web-theta-three-8zz8it8ws2.vercel.app/](https://web-theta-three-8zz8it8ws2.vercel.app/) | Producción (Vercel) |
+| **API (Backend REST)** | [https://buscatunido-api.onrender.com](https://buscatunido-api.onrender.com) | Producción (Render) |
+| **Swagger / OpenAPI Docs** | [https://buscatunido-api.onrender.com/api/docs](https://buscatunido-api.onrender.com/api/docs) | Interactivo |
+
 ## Repositories
 
 - [**web**](https://github.com/busca-tunido/web): Next.js mobile-first frontend built with Tailwind CSS and shadcn/ui.
