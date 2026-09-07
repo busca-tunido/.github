@@ -12,7 +12,7 @@ A collaborative web platform designed for out-of-town university students to sea
 
 | Servicio | URL Pública | Estado |
 | :--- | :--- | :--- |
-| **Web (Frontend)** | [https://web-theta-three-8zz8it8ws2.vercel.app/](https://web-theta-three-8zz8it8ws2.vercel.app/) | Producción (Vercel) |
+| **Web (Frontend)** | [https://web-git-main-joseleivas-projects.vercel.app/](https://web-git-main-joseleivas-projects.vercel.app/) | Producción (Vercel) |
 | **API (Backend REST)** | [https://buscatunido-api.onrender.com](https://buscatunido-api.onrender.com) | Producción (Render) |
 | **Swagger / OpenAPI Docs** | [https://buscatunido-api.onrender.com/api/docs](https://buscatunido-api.onrender.com/api/docs) | Interactivo |
 
