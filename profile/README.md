@@ -3,9 +3,9 @@
 A collaborative web platform designed for out-of-town university students to search, compare, and validate student housing (pensiones) with transparent pricing, verified rules, and community contributions.
 
 <p align="center">
-  <img src="assets/map-dark.png" alt="BuscaTuNido - Modo Oscuro" width="48%" />
+  <img src="https://raw.githubusercontent.com/busca-tunido/web/main/assets/map-dark.png" alt="BuscaTuNido - Modo Oscuro" width="48%" />
   &nbsp;
-  <img src="assets/map-light.png" alt="BuscaTuNido - Modo Claro" width="48%" />
+  <img src="https://raw.githubusercontent.com/busca-tunido/web/main/assets/map-light.png" alt="BuscaTuNido - Modo Claro" width="48%" />
 </p>
 
 ## Public Deployments / Enlaces Públicos
